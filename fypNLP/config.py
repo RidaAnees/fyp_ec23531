@@ -24,7 +24,7 @@ config = { """
         ┃       'd.all' -> all Dhivehi steps                                              ┃
         ┃       'e.all' -> all English steps                                              ┃
         ┃       'all'   -> everything in order: d.all, e.all, shared                      ┃
-        ┃                                                                                 ┃
+        ┃   you can combine multiple steps individually aswell                            ┃
         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ """
     # WRITE BELOW TO CONTROL EXECUTION FLOW: 
     'steps': ['find_gaps'],
